@@ -46,7 +46,7 @@ body{
     position: fixed;
     top: 50%;
     left: 0;
-    width: 100%;
+    width: 80%;
     text-align: center;
     transform:translateY(-200%);
     
